@@ -11,3 +11,5 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 await builder.Build().RunAsync();
 
 //test
+
+//Je fait une modification avant un push
